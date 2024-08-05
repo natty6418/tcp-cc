@@ -1,0 +1,11 @@
+
+Stat for Queue 1
+Packets/Bytes received: 476624 / 714933108
+Packets/Bytes enqueued: 476624 / 714933108
+Packets/Bytes dequeued: 476586 / 714876108
+Packets/Bytes requeued: 0 / 0
+Packets/Bytes dropped: 0 / 0
+Packets/Bytes dropped before enqueue: 0 / 0
+Packets/Bytes dropped after dequeue: 0 / 0
+Packets/Bytes sent: 476586 / 714876108
+Packets/Bytes marked: 0 / 0

@@ -1,0 +1,18 @@
+Flow 1 (10.0.0.1 -> 10.0.1.2)
+  Tx Bytes:   147408108
+  Rx Bytes:   147253608
+  Tx Packets: 98274
+  Rx Packets: 98171
+  Lost Packets: 27
+  Throughput: 18.7243 Mbps
+  Retransmissions: 76
+  Average Delay: 0.0392978
+Flow 2 (10.0.1.2 -> 10.0.0.1)
+  Tx Bytes:   5125228
+  Rx Bytes:   5124812
+  Tx Packets: 98170
+  Rx Packets: 98162
+  Lost Packets: 0
+  Throughput: 0.651654 Mbps
+  Retransmissions: 8
+  Average Delay: 0.00502212
